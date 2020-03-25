@@ -1,4 +1,4 @@
-## Identifying and analizing a device that is now an Iot device but previously not
+## Identifying and analyzing a device that is now an Iot device but previously not
 
 **Washing Machine** is an IoT device which was not before
 
