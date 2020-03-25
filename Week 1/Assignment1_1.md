@@ -2,10 +2,10 @@
 
 **Washing Machine** is an IoT device which was not before
 
-Typical Washing Maching:
+Typical Washing Machine:
 - Needs power supply
 - Needs clothes,water as well as Detergent
 
-IoT based Washing Maching:
-- Needs hetergenous sensors
+IoT based Washing Machine:
+- Needs heterogeneous sensors
 - Requires stable internet connection
