@@ -3,6 +3,6 @@
 **Washing Machine** is an IoT device which was not before
 
 Typical Washing Maching:
-	-Needs power supply
-	-Needs clothes,water as well as Detergent
+- Needs power supply
+- Needs clothes,water as well as Detergent
 asdasd
