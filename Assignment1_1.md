@@ -5,6 +5,7 @@
 Typical Washing Maching:
 - Needs power supply
 - Needs clothes,water as well as Detergent
+
 IoT based Washing Maching:
 - Needs hetergenous sensors
 - Requires stable internet connection
