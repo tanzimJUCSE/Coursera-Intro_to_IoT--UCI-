@@ -2,7 +2,7 @@
 
 **Smart watch:**
 - Small Display
-- Display containing touch sensivity
+- Display containing touch sensitivity
 - Sufficient PPI
 
 **Smart camera:**
