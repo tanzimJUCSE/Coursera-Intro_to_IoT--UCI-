@@ -1,4 +1,4 @@
-###Arduino UNO:
+### Arduino UNO:
 - Clock frequency: 16 MHZ
 - Bitwidth of the datapath: 8 bit
 - Size of Flash memory: 32KB
