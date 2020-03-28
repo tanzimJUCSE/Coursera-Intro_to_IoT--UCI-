@@ -1,5 +1,5 @@
 ### Operating Systems:
-**Arduino: **None
+**Arduino:** None
 
 **Rasberry Pi: **
 - Raspbian
@@ -7,6 +7,6 @@
 - Retropie
 
 ### Source
-**Arduino: **As no os , so not applicable
+**Arduino:** As no os , so not applicable
 
 **Rasberry Pi: **Open Source
