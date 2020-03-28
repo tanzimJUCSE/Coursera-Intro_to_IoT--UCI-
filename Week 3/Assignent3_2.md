@@ -9,4 +9,4 @@
 ### Source
 **Arduino:** As no os , so not applicable
 
-**Rasberry Pi: **Open Source
+**Rasberry Pi:** Open Source
