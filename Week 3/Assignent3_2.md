@@ -1,7 +1,7 @@
 ### Operating Systems:
 **Arduino:** None
 
-**Rasberry Pi: **
+**Rasberry Pi:**
 - Raspbian
 - Ubuntu Core
 - Retropie
